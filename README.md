@@ -8,4 +8,4 @@ Use the :arrow_left: and :arrow_right: keys to move the tetris block. Use the :a
 
 The game will begin speeding up after you've cleared a sufficient number of rows. Enjoy!
 
-[Play Now!](http://pashdevore.github.io/tetris)
+[Play Now!](http://mtco.github.io/tetris)
